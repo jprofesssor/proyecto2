@@ -32,10 +32,12 @@ exemple1|exemple2|exemple3|
 ```java
 public void toString()
 {
-  
+
 }
 ```
 
 - [ ] Opció 1
 - [x] Opció 2
 - [ ] Opció 3
+
+**kk**
